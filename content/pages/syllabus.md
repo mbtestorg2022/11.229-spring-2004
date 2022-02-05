@@ -50,11 +50,48 @@ Grading
 
 The Grade for the course is based on a series of written and oral assignments. The lowest grade for either a written or oral assignment will be dropped.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and In-Class Participation | 25% |
-| Written Assignments | 50% |
-| Oral Presentations | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and In-Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Papers will be graded on a scale of 1 to 6 based on a rubric. ([PDF]({{< baseurl >}}/resources/rubricforgrading))
 
